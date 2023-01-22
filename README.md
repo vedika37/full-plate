@@ -7,7 +7,8 @@ Our team here at "fullplate" are passionate about creating a service that treats
  
 <h2> What is "fullplate?" </h2>
 "fullPlate" is a warehousing management system intended as a smart way for food banks to keep track of inventory, orders, deliveries and scheduling so they have the ability to focus on their main idea of helping as many people as possible. 
-"fullPlate" can provide more time dedicated to other measures to aid food insecurity. By filling 
+"fullPlate" can provide more time dedicated to other measures to aid food insecurity.
+The main idea that makes "fullplate" different is that we implement a spot-focused delivery service for those signed up as food bank clients. As a main issue encountered by <em>food desserts</EM> is that even though we have food stocks, it is inaccesible to reach by those who need it. By using the saleman's journey problem, we can create the perfect routes for deliveries on top of the spots that will be a constant on these routes. This way the food can efficiently reach the client's before the expiration date.
 
 
 <h2> Features of "fullplate" </h2>
